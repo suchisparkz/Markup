@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<?xml-stylesheet type="text/xsl" href="week11.xsl"?>
+
+<historical_places> 
+
+	<place> 
+		<name language="english">Taj Mahal</name> 
+		<location>
+			<country>India</country> 
+			<city>Agra</city>
+		</location>
+		<architecture>Indo Islamic</architecture>
+		<history> 
+			<dynasty>Mugal Empire</dynasty> 
+			<king>Shah Jahan</king>
+			<period range="start" era="AC">1632</period>
+			<period range="end" era="AC">1643</period>
+		</history> 
+		<description url="https://www.tajmahal.gov.in/">Symbol of love. Shah Jahan began planning the design and construction of a suitable mausoleum and funerary garden in Agra for his wife - Mumtaz, a task that would take more than 22 years to complete, the Taj Mahal. </description>
+		<images>
+			<image size="small" type="jpg">images/TajMahal_jpg.jpg</image>
+			<image size="large" type="png">images/tm_png.png</image>
+			<image size="medium" type="gif">images/tajmahal.gif</image>	
+		</images> 
+		<website>
+			<link type="reference" url="https://www.tajmahal.gov.in/">TM Website</link>
+		</website> 
+	</place> 
+
+	<place> 
+		<name language="english">Red Fort</name> 
+		<location>
+			<country>India</country> 
+			<city>Delhi</city>
+		</location>
+		<architecture>Indo Islamic</architecture>
+		<history> 
+			<dynasty>Mugal Empire</dynasty> 
+			<king>Shah Jahan</king>
+			<period range="start" era="AC">1638</period>
+			<period range="end" era="AC">1648</period>
+		</history> 
+		<dimensions>
+			<width unit="metre">2030.3</width>
+			<height type="original" unit="metre">500.85</height>
+			<height type="current" unit="metre">245.78</height>
+		</dimensions>
+		<description url="http://asi.nic.in/asi_monu_tktd_delhi_redfort.asp">The fort lies along the Yamuna River, which fed the moats surrounding most of the walls. Construction began in the sacred month of Muharram, on 13 May 1638. Supervised by Shah Jahan, it was completed on 6 April 1648. .</description> 
+		<images>
+			<image size="small" type="jpg">images/redfort_jpg.jpg</image>
+			<image size="medium" type="gif">images/redfort.gif</image>		
+		</images> 
+		<website>
+			<link type="reference" url="http://asi.nic.in/asi_monu_tktd_delhi_redfort.asp">Architecture Website</link>
+		</website>
+	</place> 
+
+</historical_places>
